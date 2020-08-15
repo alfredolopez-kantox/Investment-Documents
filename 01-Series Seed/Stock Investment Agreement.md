@@ -16,7 +16,7 @@ The parties agree as follows:
 
 ### 1. OVERVIEW DEFINITIONS.
 
-“**Agreement Date**” means ___________, 2018.
+“**Agreement Date**” means ___________.
 
 “**Company**” means [name of Company].
 
@@ -28,7 +28,7 @@ The parties agree as follows:
 
 “**State of Incorporation**” means Delaware.
 
-“**Stock Plan**” means the [ ____________ 2018 Stock Option and Grant Plan].
+“**Stock Plan**” means the [ ____________ Stock Option and Grant Plan].
 
 ### 2. BOARD COMPOSITION DEFINITIONS.
 
@@ -162,7 +162,7 @@ Each Purchaser hereby represents and warrants to the Company, severally and not 
 
 *4.1.3 Inspection Rights.* The Company shall permit each Major Purchaser to visit and inspect the Company’s properties, to examine its books of account and records and to discuss the Company’s affairs, finances and accounts with its officers, all at such reasonable times as may be requested by such Major Purchaser.
 
-**4.2 Additional Rights and Obligations.** If the Company issues securities in its next equity financing after the date hereof (the “*Next Financing*”) that (a) have rights, preferences or privileges that are more favorable than the terms of the shares of Series Seed Preferred Stock, such as price based anti-dilution protection, or (b) provide all such future investors other contractual terms such as registration rights, the Company shall provide substantially equivalent rights to the Purchasers with respect to the shares of Series Seed Preferred Stock (with appropriate adjustment for economic terms or other contractual rights), subject to such Purchaser’s execution of any documents, including, if applicable, investor rights, co-sale, voting, and other agreements, executed by the investors purchasing securities in the Next Financing (such documents, the “*Next Financing Documents*”). Any Major Purchaser will remain a Major Purchaser for all purposes in the Next Financing Documents to the extent such concept exists. The Company shall pay the reasonable fees and expenses, not to exceed $5,000 in the aggregate, of one counsel for the Purchasers in connection with the Purchasers’ review, execution and delivery of the Next Financing Documents. Notwithstanding anything herein to the contrary, subject to the provisions of Section 8.11, upon the execution and delivery of the Next Financing Documents by Purchasers holding a majority of the then outstanding shares of Series Seed Preferred Stock held by all Purchasers, this Agreement (excluding any then-existing and outstanding obligations) shall be amended and restated by and into such Next Financing Documents and shall be terminated and of no further force or effect.
+**4.2 Additional Rights and Obligations.** If the Company issues securities in its next equity financing after the date hereof (the “*Next Financing*”) that (a) have rights, preferences or privileges that are more favorable than the terms of the shares of Series Seed Preferred Stock, such as price based anti-dilution protection, or (b) provide all such future investors other contractual terms such as registration rights, the Company shall provide substantially equivalent rights to the Purchasers with respect to the shares of Series Seed Preferred Stock (with appropriate adjustment for economic terms or other contractual rights), subject to such Purchaser’s execution of any documents, including, if applicable, investor rights, co-sale, voting, and other agreements, executed by the investors purchasing securities in the Next Financing (such documents, the “*Next Financing Documents*”). Any Major Purchaser will remain a Major Purchaser for all purposes in the Next Financing Documents to the extent such concept exists. Notwithstanding anything herein to the contrary, subject to the provisions of Section 8.11, upon the execution and delivery of the Next Financing Documents by Purchasers holding a majority of the then outstanding shares of Series Seed Preferred Stock held by all Purchasers, this Agreement (excluding any then-existing and outstanding obligations) shall be amended and restated by and into such Next Financing Documents and shall be terminated and of no further force or effect.
 
 **4.3 Assignment of Company’s Preemptive Rights.** The Company shall obtain at or prior to the Initial Closing, and shall maintain, a right of first refusal with respect to transfers of shares of Common Stock by each holder thereof, subject to certain standard exceptions. If the Company elects not to exercise its right of first refusal with respect to all or any portion of a proposed transfer of the Company’s outstanding securities by any Key Holder, the Company shall assign such right of first refusal to the Major Purchasers with respect to the portion of the outstanding securities that the Company has elected not to purchase. In the event of such assignment, each Major Purchaser shall have a right to purchase that portion of the securities proposed to be transferred by such Key Holder equal to the ratio of (a) the number of shares of the Company’s Common Stock owned by or issued or issuable (directly or indirectly) upon conversion of the shares of Series Seed Preferred Stock and any other security convertible into or exercisable or exchangeable for the Company’s Common Stock owned by such Major Purchaser, to (b) the number of shares of the Company’s Common Stock owned by or issued or issuable (directly or indirectly) upon conversion of the shares of Series Seed Preferred Stock and any other security convertible into or exercisable or exchangeable for the Company’s Common Stock owned by all Major Purchasers.
 
@@ -194,7 +194,9 @@ Notwithstanding the provisions of Sections 5.1(a) and (b), no such registration 
 
 (e) upon the consummation of the Proposed Sale, (i) each holder of each class or series of the Company’s stock will receive the same form of consideration for their shares of such class or series as is received by other holders in respect of their shares of such same class or series of stock unless the holders of at least a majority of Series Seed Preferred Stock elect otherwise, (ii) each holder of a series of Series Seed Preferred Stock will receive the same amount of consideration per share of such series of Series Seed Preferred Stock as is received by other holders in respect of their shares of such same series, (iii) each holder of Common Stock will receive the same amount of consideration per share of Common Stock as is received by other holders in respect of their shares of Common Stock, and (iv) unless the holders of at least a majority of the Series Seed Preferred Stock elect to receive a lesser amount, the aggregate consideration receivable by all holders of the Preferred Stock and Common Stock shall be allocated among the holders of Preferred Stock and Common Stock on the basis of the relative liquidation preferences to which the holders of each respective series of Preferred Stock and the holders of Common Stock are entitled in a Deemed Liquidation Event (assuming for this purpose that the Proposed Sale is a Deemed Liquidation Event) in accordance with the Company’s Certificate of Incorporation in effect immediately prior to the Proposed Sale; and
 
-(f) no Stockholder that is not an employee of the Company shall be required to agree to (i) any restrictive covenant regarding competition, solicitation or restrictions on future investments or (ii) any release of claims other than those arising solely in such Stockholder’s capacity as a stockholder of the Company.
+(f) no Stockholder that is not an employee of the Company shall be required to agree to (i) any restrictive covenant regarding competition, solicitation or restrictions on future investments or (ii) any release of claims other than those arising solely in such Stockholder’s capacity as a stockholder of the Company; and
+
+(g) the Stockholder and its affiliates will not be required to amend, extend or terminate any contractual or other relationship with the Company, the acquirer or their respective affiliates, except that the Stockholder may be required to agree to terminate the investment related documents between or among such Stockholder, the Company, and/or other stockholders of the Company.
 
 ### 6. PARTICIPATION RIGHT.
 
@@ -272,7 +274,7 @@ IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the da
 
 PURCHASERS:
 
-Name: BLOOMBERG BETA 2016 L.P.
+Name: BLOOMBERG BETA 2019 L.P.
 
 By: ______________
 

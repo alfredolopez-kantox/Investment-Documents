@@ -1,9 +1,9 @@
 [COMPANY]  
 [Address] 
 
-___________ ____, 2018
+___________ ____, ____
 
-Bloomberg Beta 2016 L.P.  
+Bloomberg Beta 2019 L.P.  
 140 New Montgomery Street  
 Suite 2200  
 San Francisco, CA  94105  
@@ -13,7 +13,7 @@ Re:	**Pro Rata, Information, MFN and Other Rights**
 
 Ladies and Gentlemen:
 
-This letter (the “*Agreement*”) will confirm our agreement that Bloomberg Beta 2016 L.P. (the “*Investor*”) shall be entitled to the following contractual pro rata, information and MFN rights in respect of [Company], a Delaware corporation (the “*Company*”), effective and contingent upon its purchase of a simple agreement for future equity of the Company, dated on or about ___, 2018 (the “*SAFE*”).  Capitalized terms used herein and not defined shall have the meanings given to them in the SAFE.
+This letter (the “*Agreement*”) will confirm our agreement that Bloomberg Beta 2019 L.P. (the “*Investor*”) shall be entitled to the following contractual pro rata, information and MFN rights in respect of [Company], a Delaware corporation (the “*Company*”), effective and contingent upon its purchase of a simple agreement for future equity of the Company, dated on or about [date] (the “*SAFE*”).  Capitalized terms used herein and not defined shall have the meanings given to them in the SAFE.
 
 1. Subject to the terms and conditions specified in this Agreement, and notwithstanding anything to the contrary in the SAFE, the Company hereby grants to the Investor a right to purchase its Pro Rata Portion (as defined below) of the equity securities, or instruments convertible into or exercisable or exchangeable for equity securities (the “*Equity Securities*”), issued by the Company in an Equity Financing (as defined below) at the price and on the terms such shares are offered to other investors in such Equity Financing (the "*Pro Rata Right*").  The Company shall give Investor a written notice of its bona fide intention to issue such Equity Securities, describing the type of Equity Securities and the price and the general terms upon which the Company proposes to issue such Equity Securities.  Investor shall have ten (10) days from the date such notice is effective, to agree in writing to purchase such Investor’s Pro Rata Portion of such Equity Securities. Such purchase shall be completed at the same closing as that of any third party purchasers or at an additional closing thereunder and shall be subject to the Investor signing any purchase and other documents signed by other investors in the Equity Financing. 
  
@@ -29,7 +29,9 @@ This letter (the “*Agreement*”) will confirm our agreement that Bloomberg Be
 
     (c) Promptly after the commencement thereof, notice of all suits, claims, proceedings or investigations that could materially and adversely affect the Company or any of its affiliates or with respect to the SAFE.
 
-5. The Company agrees that, until the earlier of (a) conversion of the SAFE pursuant to the closing of the next Equity Financing contemplated by the SAFE or (b) immediately prior to the consummation of a Change of Control of the Company, if the Company shall offer any more favorable investment terms to another investor, the same terms shall be automatically deemed to apply retroactively to any and all investments in the Company by Investor, whether pursuant to the SAFE or otherwise.  The Company agrees to notify Investor promptly upon proposing to or receiving from another investor terms that are more favorable to the investor than those set forth in the SAFE, as supplemented by this Agreement.
+5. (a) The Company agrees that, until the earlier of (i) conversion of the SAFE pursuant to the closing of the next Equity Financing contemplated by the SAFE or (ii) immediately prior to the consummation of a Change of Control of the Company, if the Company shall offer any investment terms to another investor that are more favorable than those set forth in the SAFE, the same terms shall be automatically deemed to apply retroactively to any and all investments in the Company by Investor that do not have such investment terms that are more favorable, whether pursuant to the SAFE or otherwise.  The Company agrees to notify Investor promptly upon proposing to or receiving from another investor terms that are more favorable to the investor than those set forth in the SAFE, as supplemented by this Agreement.
+
+    (b) In the event Investor makes any subsequent investments in the Company after the date hereof, and the Company offers any investment terms to another investor that are more favorable than those set forth in such subsequent investment made by the Investor, the Company agrees that it shall apply the same MFN rights set forth in Section 5(a) above to the Investor in respect of such subsequent investment, substituting such subsequent investment for the references to the SAFE in Section 5(a) above.
 
 6. The Company agrees that the SAFE shall not automatically convert into shares of Preferred Stock unless the Company receives aggregate gross proceeds of not less than [$3,000,000] (excluding the aggregate amount of convertible debt securities and simple agreements for future equity of the Company outstanding as of the date of this Agreement or issued after the date of this Agreement). 
 
@@ -54,7 +56,7 @@ ACKNOWLEDGED AND AGREED:
 
 Investor:
 
-BLOOMBERG BETA 2016 L.P.
+BLOOMBERG BETA 2019 L.P.
 
 By:	____________________  
 [____________________]  
